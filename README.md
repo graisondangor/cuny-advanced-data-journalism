@@ -8,10 +8,6 @@
 
 **Prerequisite**: Data Journalism (2nd semester, 3 credit course)
 
-**Recommended**: Mining the social Web
-
-**Status**: Draft, version 2.
-
 **Authors**: Miguel Paz / Lam Thuy Vo
 
 
@@ -84,12 +80,12 @@ Introduction to Python basics (part II)
    </td>
    <td>Gathering and mining — data by subjects
 <p>
- \
+
 Jupyter notebooks, part 1:
 <p>
 Virtual environments
 <p>
-Creating your first book \
+Creating your first notebook
 Understanding the environment
    </td>
    <td>
@@ -248,7 +244,7 @@ Pandas: <ul>
    </td>
    <td>Bulletproofing and reproducibility <ul>
 
-<li>Documentation in pandas and notebooks \
+<li>Documentation in pandas and notebooks
 
 
 <p>
@@ -330,7 +326,7 @@ You will learn to:
 *   Do in depth data and statistical analysis with Python, Pandas, Jupyter Notebooks (Probability distribution, weighted distribution, z-test calculation, linear regression and multiple regression, analysis of variance, hypothesis testing: t-test and f-test)
 *   Document your analysis with Python notebooks and other Python scripts
 *   Mine the web for data (particularly social media with existing Python scripts)
-*   Get data from API´s and JSON files from the web
+*   Get data from APIs and JSON files from the web
 *   Do social network analysis with Python
 *   Do and publish data visualizations with Python Matplotlib
 *   Be confident using the command line and to do quick data analysis with existing tools (options VisData, CSVKit or XSV, Agathe), version controlling and backing up your data with Git and Github.
@@ -350,7 +346,8 @@ You and your team will produce 2 big stories
 
 
 
-*   1 story based on data analysis and reporting. \
+*   1 story based on data analysis and reporting.
+
 1 story based in data mining, database building and graphics development.
 
 All the stories will be publish in a class mobile-friendly website with responsive design produced by everyone in the class (we will define roles and responsibilities).
@@ -361,8 +358,7 @@ All the stories will be publish in a class mobile-friendly website with responsi
 
 
 *   Two Americas: Republican districts have far fewer immigrants: [https://www.axios.com/two-americas-republicans-immigrants-4c1948f1-8b10-4e67-8ae0-7406af7d21a9.html](https://www.axios.com/two-americas-republicans-immigrants-4c1948f1-8b10-4e67-8ae0-7406af7d21a9.html)
-*   Can we talk about the gender pay \
-gap? [https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/](https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/)
+*   Can we talk about the gender pay gap? [https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/](https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/)
 *   We Compared Several Years Of Oscars Best Picture Scripts To See If They Really Became More Diverse [https://www.buzzfeed.com/lamvo/oscars-script-diversity-analysis](https://www.buzzfeed.com/lamvo/oscars-script-diversity-analysis)
 *   We Got Government Data On 20 Years Of Workplace Sexual Harassment Claims. These Charts Break It Down [https://www.buzzfeed.com/lamvo/eeoc-sexual-harassment-data](https://www.buzzfeed.com/lamvo/eeoc-sexual-harassment-data)
 *   Inside The Partisan Fight For Your News Feed [https://www.buzzfeed.com/craigsilverman/inside-the-partisan-fight-for-your-news-feed](https://www.buzzfeed.com/craigsilverman/inside-the-partisan-fight-for-your-news-feed)
@@ -376,12 +372,12 @@ gap? [https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/](http
 
 
 
--[Python 3.6](https://www.python.org/downloads/) \
--[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) package and other scripts and packages for social media data mining \
--[Anaconda](https://www.anaconda.com/download/#macos) (Python distribution: includes Jupyter Notebooks, data analysis and data visualization packages, and environment manager to create virtual environments) \
--Highcharts Javascript data visualization library-Text editor[ Sublime Text](http://www.sublimetext.com/) or[ Atom](https://www.atom.io) \
--Personal account in[ Github](http://www.github.com/) \
--Command line Terminal \
+-[Python 3.6](https://www.python.org/downloads/)
+-[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) package and other scripts and packages for social media data mining
+-[Anaconda](https://www.anaconda.com/download/#macos) (Python distribution: includes Jupyter Notebooks, data analysis and data visualization packages, and environment manager to create virtual environments)
+-Highcharts Javascript data visualization library-Text editor[ Sublime Text](http://www.sublimetext.com/) or[ Atom](https://www.atom.io)
+-Personal account in[ Github](http://www.github.com/)
+-Command line Terminal
 -Local server
 
 
