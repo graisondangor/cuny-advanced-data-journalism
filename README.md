@@ -15,9 +15,9 @@
 
 
 
-The Advanced Data Journalism course teaches students the next level of skills and reporting to succeed as data journalists. The course builds on what you learned in Data Journalism, but goes deeper into hands on data gathering, cleaning, data mining, data analysis and data visualization for storytelling. We will be working intensively with Python (one of tht popular programming language in newsrooms that is well-leveraged or suited for working with data). We will also use Javascript visualization libraries for mapping and graphics.
+The Advanced Data Journalism course teaches students the next level of skills and reporting to succeed as data journalists. The course builds on what you learned in Data Journalism, but goes deeper into hands on data gathering, cleaning, data mining, data analysis and data visualization for storytelling. We will be working intensively with Python (one of the popular programming language in newsrooms that is well-leveraged or suited for working with data). We will also use Javascript visualization libraries for mapping and graphics.
 
-The course will focus on one class big reporting project (with students working in small reporting teams). We have two themes for this course: 1) Politics, Power and Money in New York, and 2) Economics, race and gender. The City of New York has a an annual budget close to $85 billion dollars -the largest of any city in the world. This involves thousands of contracts, vendors, services, projects, companies and lobbyist targeting elected officials (who receive campaign donations), as well as programs related to race and gender. Both themes work as intersectional beats that cross each other and other issues.
+The course will focus on one class big reporting project (with students working in small reporting teams). We have two themes for this course: 1) Politics, Power and Money in New York, and 2) Economics, race and gender. The City of New York has a an annual budget close to $85 billion dollars - the largest of any city in the world. This involves thousands of contracts, vendors, services, projects, companies and lobbyist targeting elected officials (who receive campaign donations), as well as programs related to race and gender. Both themes work as intersectional beats that cross each other and other issues.
 
 We will take on the above mentioned by exploring city datasets and documents (starting from general questions to the most specific) in class lab time exercises; by inviting experts to class; and by doing on-the-ground reporting.
 
@@ -52,11 +52,11 @@ When it comes to statistical analysis - that you are already familiar with from 
   <tr>
    <td>Week 1. August 30
    </td>
-   <td>Python in the world of journalism
+   <td><a href='https://docs.google.com/presentation/d/1ObOUrO4GKABI59B4Hutrni6nnXNhd9t_Vv2xDGJZ69M/edit?usp=sharing' target='blank'>Python in the world of journalism</a>
 <p>
-Languages of the web (an overview)
+<a href='https://docs.google.com/presentation/d/1eRNTxHixpWxD9gzRKLkztVjoPT3omYd7Ne61A9R2-dI/edit?usp=sharing' target='blank'>Languages of the web (an overview)</a>
 <p>
-Introduction to Python basics (part I)
+<a href='https://docs.google.com/document/d/1sP7IX3Ki7hik_HAwtEBR8kkvu8fD4nQnDz-DmwsVx6A/edit?usp=sharing' target='blank'>Installation party!</a>
    </td>
    <td>
    </td>
@@ -68,7 +68,7 @@ Introduction to Python basics (part I)
    </td>
    <td>Gathering and mining — data types in the wild
 <p>
-Introduction to Python basics (part II)
+Introduction to Python basics
    </td>
    <td>
    </td>
