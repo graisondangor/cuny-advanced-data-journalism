@@ -119,7 +119,20 @@ I have this installed on my system in case I'm pairing with someone who's not fa
 
 Python comes with every Mac, for others use. If you don't already have Python installed, start by getting [Python up and running](http://docs.python-guide.org/en/latest/starting/installation/).
 
-There are two versions, Python 2 and Python 3. Mac's usually come with Python 2 but we'll be using Python 3.
+There are two versions, Python 2 and Python 3. Mac's usually come with Python 2 but we'll be using Python 3. Since we have Homebrew, you can type into your command line interface:
+```
+brew install python3
+```
+
+Now let’s confirm which version was installed:
+```
+python3 --version
+```
+The result should be:
+```
+Python 3.7.0
+```
+
 
 
 ### Pip and PyPi

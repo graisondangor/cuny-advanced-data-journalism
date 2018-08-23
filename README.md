@@ -54,9 +54,7 @@ When it comes to statistical analysis - that you are already familiar with from 
    <td>Week 1. August 30
    </td>
    <td><a href='https://docs.google.com/presentation/d/1ObOUrO4GKABI59B4Hutrni6nnXNhd9t_Vv2xDGJZ69M/edit?usp=sharing' target='blank'>Python in the world of journalism</a>
-<p>
 <a href='https://docs.google.com/presentation/d/1eRNTxHixpWxD9gzRKLkztVjoPT3omYd7Ne61A9R2-dI/edit?usp=sharing' target='blank'>Languages of the web (an overview)</a>
-<p>
 <a href='exercises/lesson1/installation_party.md' target='blank'>Installation party!</a>
    </td>
    <td>
@@ -68,8 +66,8 @@ When it comes to statistical analysis - that you are already familiar with from 
    <td>Week 2. Sept. 6
    </td>
    <td>Gathering and mining — data types in the wild
-<p>
-Introduction to Python basics
+   </br>
+   <a href=''>Introduction to Python basics</a>
    </td>
    <td>
    </td>
@@ -80,14 +78,12 @@ Introduction to Python basics
    <td>Week 3. Sept. 13
    </td>
    <td>Gathering and mining — data by subjects
-<p>
-
-Jupyter notebooks, part 1:
-<p>
-Virtual environments
-<p>
-Creating your first notebook
-Understanding the environment
+    </br>Jupyter notebooks, part 1:
+    <ul>
+      <li>Virtual environments</li>
+      <li>Creating your first notebook</li>
+      <li>Understanding the environment</li>
+      </ul>
    </td>
    <td>
    </td>
@@ -98,7 +94,7 @@ Understanding the environment
    <td>Week 4. Sept. 20
    </td>
    <td>Gathering and mining — Interviewing a data set
-<p>
+
 Jupyter notebooks, part 2: <ul>
 
 <li>Libraries
@@ -120,7 +116,7 @@ Jupyter notebooks, part 2: <ul>
 <li>Insider jargon and knowledge
 <li>Messy data from the web
 
-<p>
+
 Fun with pandas:<ul>
 
 <li>Sorting
@@ -152,7 +148,7 @@ Fun with pandas:<ul>
 <li>Editorial power of merging information
 <li>Problems
 
-<p>
+
 Pandas:<ul>
 
 <li>Harmonize and clean data for joining of data sets
@@ -173,7 +169,7 @@ Pandas:<ul>
 <li>Trends and anomalies
 <li>Categories
 
-<p>
+
 Pandas<ul>
 
 <li>Simple math with pandas
@@ -193,7 +189,7 @@ Pandas<ul>
 
 <li>Percentages and percent changes
 
-<p>
+
 Pandas: <ul>
 
 <li>Doing percentages
@@ -215,7 +211,7 @@ Pandas: <ul>
 <li>Statistical concepts
 <li>Models of anlayses
 
-<p>
+
 Pandas: <ul>
 
 <li>matplotlib</li></ul>
@@ -248,7 +244,7 @@ Pandas: <ul>
 <li>Documentation in pandas and notebooks
 
 
-<p>
+
 Walkthrough of sample project<ul>
 
 <li>311</li></ul>
@@ -278,7 +274,7 @@ Walkthrough of sample project<ul>
 <li>Learning from the tech sector
 <li>Structuring things into data that aren't
 
-<p>
+
 Pandas:<ul>
 
 <li>Linguistic analysis</li></ul>
@@ -294,7 +290,7 @@ Pandas:<ul>
    <td>Week 14. Dec. 6
    </td>
    <td>Work on projects time
-<p>
+
 Lab time!
    </td>
    <td>
