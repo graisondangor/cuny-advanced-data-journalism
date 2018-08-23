@@ -56,7 +56,7 @@ When it comes to statistical analysis - that you are already familiar with from 
 <p>
 <a href='https://docs.google.com/presentation/d/1eRNTxHixpWxD9gzRKLkztVjoPT3omYd7Ne61A9R2-dI/edit?usp=sharing' target='blank'>Languages of the web (an overview)</a>
 <p>
-<a href='https://docs.google.com/document/d/1sP7IX3Ki7hik_HAwtEBR8kkvu8fD4nQnDz-DmwsVx6A/edit?usp=sharing' target='blank'>Installation party!</a>
+<a href='exercises/lesson1/installation_party.md' target='blank'>Installation party!</a>
    </td>
    <td>
    </td>
