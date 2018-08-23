@@ -36,17 +36,23 @@ xcode-select --install
 
 Install Homebrew by pasting this command into your terminal and then hitting "enter."
 
-`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` \
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 
 It will ask for your password, so type that in and hit "enter" again. Now, paste this line to test Homebrew.
 
-`brew doctor` \
+```
+brew doctor
+```
 
 
 This will test your Homebrew setup, and any tools you've installed to make sure they're working properly. If they are, Homebrew tell you
 
-`Your system is ready to brew.` \
+```
+Your system is ready to brew.
+```
 
 
 If anything isn't working properly, follow their instructions to get things working correctly.
@@ -59,17 +65,23 @@ _Note: There are many editors available on your computer. You can use a pretty g
 
 Open your bash_profile with the following command.
 
-`nano ~/.bash_profile` \
+```
+nano ~/.bash_profile
+```
 
 
 Then copy and paste this line of code at the very top. This lets Homebrew handle updating and maintaining the code we'll be installing.
 
-`export PATH=/usr/local/bin:$PATH` \
+```
+export PATH=/usr/local/bin:$PATH
+```
 
 
 Once you've added the line of code, you can save the file by typing control + O. Doing so lets you adjust the file name. Just leave it as is, then hit enter to save. Hit control + X to exit. You'll find yourself back at the command line and needing to update your terminal session like so. Copy and paste the next line of code into your terminal and hit enter.
 
-`source ~/.bash_profile` \
+```
+source ~/.bash_profile
+```
 
 
 You'll only need to source the bash_profile since we're editing the file right now. It's the equivalent of quitting your terminal application and opening it up again, but source lets you soldier forward and setup Python.
