@@ -10,6 +10,7 @@
 
 **Authors**: Miguel Paz / Lam Thuy Vo
 
+![data data data! o(^◇^)o](https://media.giphy.com/media/zEU2uwmialC4U/giphy.gif)
 
 ### Description
 
