@@ -21,12 +21,42 @@ Adopted from NPR's guide: [http://blog.apps.npr.org/2013/06/06/how-to-setup-a-de
 
 With the release of macOS 10.9, Apple decoupled its command line tools necessary for compiling some of the tools we use from Xcode, Apple's proprietary development suite.
 
-All Macs come with an app called "Terminal." You can find it under Applications > Utilities. Double click to open that bad boy up, and run this command:
+All Macs come with an app called "Terminal." You can find it under Applications > Utilities.
 
+Additionally, you should go to your App Store and download and install `XCode Developer Tools`.
+
+Then find your Terminal (often easiest way to do this is to search for it in your Spotlight Search in the right upper corner of your Mac) and run this command:
 
 ```
 xcode-select --install
 ```
+
+Once you've done all that, you can run this command to check whether everything worked out:
+```
+xcode-select -p
+```
+
+If you get:
+```
+/Library/Developer/CommandLineTools
+```
+
+everything is installed.
+
+If you want to know if you may have previously installed the full Xcode package, you can check by typing in Terminal:
+
+```
+xcode-select -p
+```
+
+If you see:
+```
+/Applications/Xcode.app/Contents/Developer
+```
+the full Xcode package is already installed.
+
+
+
 
 
 
@@ -132,7 +162,6 @@ The result should be:
 ```
 Python 3.7.0
 ```
-
 
 
 ### Pip and PyPi
