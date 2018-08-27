@@ -488,20 +488,31 @@ Each team will create it's own Drive team folder (team-lastname-lastname) and da
 *   **Pitches (5 points) and reporting memos (5 points)**
 
 5 pts. On time + meets all project criteria + original reporting + effective use of data
+
 4 pts. On time + meets most if not all of project criteria + acceptable reporting + acceptable use of data
+
 3 pts. On time + meets very little of project criteria + somewhat acceptable reporting + somewhat acceptable use of data
+
 2 pts. Late and/or meets little of project criteria + weak reporting + weak use of data
+
 1 pts. Late and/or does not fit project criteria + very weak reporting + very weak use of data
+
 0 pts. Not submitted within 1 week of deadline
 
 *   **Story draft (15 points) and final stories (15 points)**
 
 15 pts. On time + meets all project criteria + original reporting + effective use of data
+
 13 pts. On time + meets most if not all of project criteria + acceptable reporting + acceptable use of data
+
 10 pts. On time + meets very little of project criteria + somewhat acceptable reporting + somewhat acceptable use of data
+
 7 pts. Late and/or meets little of project criteria + weak reporting + weak use of data
+
 5 pts. Late and/or does not mean project criteria + very weak reporting + very weak use of data
+
 3 pts. Late and/or shows little to no effort
+
 0 pts. Not submitted within 1 week of deadline
 
 *   *Class exercises and participation (20 points)**
