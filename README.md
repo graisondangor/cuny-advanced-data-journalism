@@ -2,13 +2,16 @@
 
 # **Advanced Data Reporting JOUR76006**
 
-**Semester**: 3rd semester
+**Semester**: 3rd semester, Fall 2018
 
-**Room:** 430
+**When, where:** Thursdays 5:30/8:20pm, room 432
 
 **Prerequisite**: Data Journalism (2nd semester, 3 credit course)
 
-**Authors**: Miguel Paz / Lam Thuy Vo
+**Instructors**: [Miguel Paz](https://www.journalism.cuny.edu/faculty/miguel-paz/) / [Lam Thuy Vo](https://www.journalism.cuny.edu/faculty/lam-thuy-vo/)
+
+**Communications, office hours:** [Slack](https://datareporting18.slack.com/) (main class communication channel). Office hours with Miguel Paz by appointment via email.
+
 
 ![data data data! o(^◇^)o](https://media.giphy.com/media/zEU2uwmialC4U/giphy.gif)
 
@@ -18,18 +21,17 @@
 
 The Advanced Data Journalism course teaches students the next level of skills and reporting to succeed as data journalists. The course builds on what you learned in Data Journalism, but goes deeper into hands on data gathering, cleaning, data mining, data analysis and data visualization for storytelling. We will be working intensively with Python (one of the popular programming language in newsrooms that is well-leveraged or suited for working with data).
 
-The course will focus on one class big reporting project (with students working in small reporting teams). We have two themes for this course: 1) Politics, Power and Money in New York, and 2) Economics, race and gender. The City of New York has a an annual budget close to $85 billion dollars - the largest of any city in the world. This involves thousands of contracts, vendors, services, projects, companies and lobbyist targeting elected officials (who receive campaign donations), as well as programs related to race and gender. Both themes work as intersectional beats that cross each other and other issues.
+The course will focus on one class big reporting project (with students working in small teams). We have two themes for this course: 1) Politics, power and money in New York, and 2) Economics, race and gender. The City of New York has a an annual budget close to $85 billion dollars - the largest of any city in the world. This involves thousands of contracts, vendors, services, projects, companies and lobbyist targeting elected officials (who receive campaign donations), as well as programs related to race and gender. Both themes work as intersectional beats that cross each other and other issues.
 
 We will take on the above mentioned by exploring city datasets and documents (starting from general questions to the most specific) in class lab time exercises; by inviting experts to class; and by doing on-the-ground reporting.
 
 The sessions will be organized around 4 main areas, oriented by journalism questions:
 
 
-
 1.  Data cleaning and processing
-1.  Data mining
-1.  Data analysis
-1.  Data visualization
+2.  Data mining
+3.  Data analysis
+4.  Data visualization
 
 In case you wonder, we won't be using or teaching Excel (you got that already in Data Journalism 1, and you can use it whenever you feel the need to do so, since its complementary to the work in Python). Why? Excel is a great tool to explore, analyze and browse data, as well as to do calculations and clean small sets of data. But it lacks what Python, Pandas and Jupyter Notebooks bring to the table: the ability to keep track of changes, automatize data analysis and other tasks, as well as to save your work as notebooks so your editors and other people can reproduce your work.
 
@@ -87,7 +89,7 @@ When it comes to statistical analysis - that you are already familiar with from 
    </td>
    <td>
    </td>
-   <td>
+   <td>Story 1 Pitch. 
    </td>
   </tr>
   <tr>
@@ -127,7 +129,7 @@ Fun with pandas:<ul>
    </td>
    <td>
    </td>
-   <td>
+   <td>Story 1 Memo. 
    </td>
   </tr>
   <tr>
@@ -137,7 +139,7 @@ Fun with pandas:<ul>
    </td>
    <td>
    </td>
-   <td>
+   <td>Story 1 Draft. 
    </td>
   </tr>
   <tr>
@@ -179,7 +181,7 @@ Pandas<ul>
    </td>
    <td>
    </td>
-   <td>
+   <td>Story 1 Final. 
    </td>
   </tr>
   <tr>
@@ -200,7 +202,7 @@ Pandas: <ul>
    </td>
    <td>
    </td>
-   <td>
+   <td>Story 2 Pitch
    </td>
   </tr>
   <tr>
@@ -220,7 +222,7 @@ Pandas: <ul>
    </td>
    <td>
    </td>
-   <td>
+   <td>Story 2 Memo
    </td>
   </tr>
   <tr>
@@ -253,7 +255,7 @@ Walkthrough of sample project<ul>
    </td>
    <td>
    </td>
-   <td>
+   <td>Story 2 Draft
    </td>
   </tr>
   <tr>
@@ -295,13 +297,13 @@ Lab time!
    </td>
    <td>
    </td>
-   <td>
+   <td>Story 2 Final
    </td>
   </tr>
   <tr>
    <td>Week 15. Dec. 13.
    </td>
-   <td>presentation
+   <td>Presentation
    </td>
    <td>
    </td>
@@ -326,7 +328,7 @@ You will learn to:
 *   Get data from APIs and JSON files from the web
 *   Do social network analysis with Python
 *   Do and publish data visualizations with Python Matplotlib
-*   Be confident using the command line and to do quick data analysis with existing tools (options VisData, CSVKit or XSV, Agathe), version controlling and backing up your data with Git and Github.
+*   Be confident using the command line and to do quick data analysis with existing tools, version controlling and backing up your data with Git and Github.
 
 
 
@@ -337,18 +339,19 @@ You will do the above mentioned by:
 *   Working with datasets that are valuable to the course reporting theme that apply a particular skill
 *   Pair programming, trial and error and peer review
 *   Mixing the skills work with reporting
-*   Completing short data exercise assignments related to topics and skills learned in class
+*   Completing short in-class data exercise assignments related to the topics and skills learned
 
 You and your team will produce 2 big stories
 
 *   1 story based on data analysis and reporting.
+*   1 story based in data mining, database building and graphics development.
 
-1 story based in data mining, database building and graphics development.
+You will publish your stories in a class mobile-friendly website produced by everyone before the end of the semester (we will define roles and responsibilities).
 
-All the stories will be publish in a class mobile-friendly website with responsive design produced by everyone in the class (we will define roles and responsibilities).
+
 # Assignments
 
-Your grade is made up of three parts. Your two assignments and your in-class participation:
+Your grade is made up of three parts. Your two assignments and your in-class work and participation:
 
 
 
@@ -378,22 +381,21 @@ Your grade is made up of three parts. Your two assignments and your in-class par
 
 ## Details of each story assignment
 
-The reporting assignments for this course are two data journalism stories. For each story you will hand in reporting memos, drafts and final pieces. You will do this by working in your team Drive folder or repository in Github?  
+The reporting assignments for this course are two data journalism stories. For each story you will hand in pitches, reporting memos, drafts and final pieces. You will file your work in your assigned team Drive folder.  
 
 Each story includes the following deliverables:
 
 
 
-*   Pitch
-*   Reporting memo
-*   Draft
-*   Story
+*   Pitch (5 points)
+*   Reporting memo (5 points)
+*   Draft (15 points)
+*   Story (15 points)
 
 
-#### Pitch requirements
+#### Pitch
 
-  A pitch should be 1 page long, 2 pages long max.   including the following things
-
+  A pitch should be 1 page long, 2 pages long max.   including the following things:
 
 
 *   Team byline and beat.
@@ -410,7 +412,7 @@ Each story includes the following deliverables:
 
 #### Reporting memo
 
-simple document addressed to your instructors with the goal to let them know what you did, what problems you came across, what you need help with and what are your next reporting steps.
+Simple document addressed to your instructors with the goal to let them know what you did, what problems you came across, what you need help with and what are your next reporting steps.
 
 Requirements:
 *   Story number, byline, date
@@ -423,7 +425,8 @@ Requirements:
 
 
 #### Draft and Final Stories
-Your draft and final stories must include all the traditional elements of a story, and a data folder.
+
+Your draft and final stories must include all the traditional elements of a story, and a data Github repository.
 
 Elements of story:
 *   Headline
@@ -432,13 +435,15 @@ Elements of story:
 *   Text
 *   Charts (if included)
 *   Any necessary credits, captions, etc.
-*   Data github repo:
+*   Data Github repo:
     *   A data folder with your input data (raw, unprocessed)
     *   An output folder with output data files from your analysis
-    *   A notebooks folder which contains all your jupyter notebooks
+    *   A notebooks folder which contains all your Jupyter notebooks
     *   A readme.md file that explains what you did with your project
 
+
 ### Types of stories you will be able to produce
+
 
 *   Two Americas: Republican districts have far fewer immigrants: [https://www.axios.com/two-americas-republicans-immigrants-4c1948f1-8b10-4e67-8ae0-7406af7d21a9.html](https://www.axios.com/two-americas-republicans-immigrants-4c1948f1-8b10-4e67-8ae0-7406af7d21a9.html)
 *   Can we talk about the gender pay gap? [https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/](https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/)
@@ -452,16 +457,97 @@ Elements of story:
 ### Tools used in the class
 
 * [Python 3](https://www.python.org/downloads/)
+* [Jupyter Notebooks](https://jupyter.org/)
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) package and other scripts and packages for social media data mining
-* Text editor[ Sublime Text](http://www.sublimetext.com/) or[ Atom](https://www.atom.io)
-* Personal account in[ Github](http://www.github.com/)
-* Command line Terminal
+    * Text editor[Sublime Text](http://www.sublimetext.com/) or [Atom](https://www.atom.io)
+    * Personal account in [Github](http://www.github.com/)
+    * Command line Terminal
 
-### Plagiarism and Copyright
 
-It is a serious ethical violation to take any material created by another person and represent it as your own original work. Any such plagiarism will result in serious disciplinary action, possibly including dismissal from the CUNY J-School. Plagiarism may involve copying text from a book or magazine without attributing the source, or lifting words, code, photographs, videos, or other materials from the Internet and attempting to pass them off as your own. Please ask the instructor if you have any questions about how to distinguish between acceptable research and plagiarism.
 
-In addition to being a serious academic issue, copyright is a serious legal issue.
+### Deadlines and how to file
+
+Each team will create it's own Drive team folder (team-lastname-lastname) and data Github repository (github.com/team-lastname-lastname), to file work. Assignments are filed by **Thursdays at 4:30 pm.** Remember to give your instructors full access to your folder and repo, and to post a message in the #filehere Slack channel to let your instructors know that you did.
+
+* Week 3. Sept. 13. Story 1 Pitch. 
+* Week 5. Sept. 27. Story 1 Memo. 
+* Week 6. Oct. 4. Story 1 Draft.  
+* Week 8. Oct. 18. Story 1 Final. 
+* Week 9. Oct. 25. Story 2 Pitch. 
+* Week 10. Nov. 1. Story 2 Memo. 
+* Week 12. Nov. 15. Story 2 Draft. 
+* Week 14. Dec. 6. Story 2 Final. 
+
+
+### Grading
+
+
+#### Rubric
+
+
+*   **Pitches (5 points) and reporting memos (5 points)**
+
+5 pts. On time + meets all project criteria + original reporting + effective use of data
+4 pts. On time + meets most if not all of project criteria + acceptable reporting + acceptable use of data
+3 pts. On time + meets very little of project criteria + somewhat acceptable reporting + somewhat acceptable use of data
+2 pts. Late and/or meets little of project criteria + weak reporting + weak use of data
+1 pts. Late and/or does not fit project criteria + very weak reporting + very weak use of data
+0 pts. Not submitted within 1 week of deadline
+
+*   **Story draft (15 points) and final stories (15 points)**
+
+15 pts. On time + meets all project criteria + original reporting + effective use of data
+13 pts. On time + meets most if not all of project criteria + acceptable reporting + acceptable use of data
+10 pts. On time + meets very little of project criteria + somewhat acceptable reporting + somewhat acceptable use of data
+7 pts. Late and/or meets little of project criteria + weak reporting + weak use of data
+5 pts. Late and/or does not mean project criteria + very weak reporting + very weak use of data
+3 pts. Late and/or shows little to no effort
+0 pts. Not submitted within 1 week of deadline
+
+*   *Class exercises and participation (20 points)**
+
+Fulfills all class exercises, participates, is on time, asks questions, shares ideas, works well with others.
+
+100 points = 100%
+
+#### Scale
+
+Final course grades, according to the grading scale used in the CUNY Graduate School of Journalism:
+
+* 97: A+  Stellar work. Ready to be published by a professional news organization with minimal changes.
+* 93: A Excellent work. It is ready to be published professionally with some changes.
+* 90: A- Good quality work, although it needs a slightly more significant revision to be able to be published.
+* 87: B+ Solid work that shows some deficiencies that need to be solved.
+* 83: B Meets certain requirements, but lacks several important elements.
+* 80: B- Below average and needs strong overall improvements.
+* 77: C+ Poor job. It presents many problems of structure, reporting and storytelling
+* 73: C Almost unacceptable because of major overall problems.
+* 70: C- Unacceptable. Does not meet the minimum requirements of a graduate level journalism project.
+* Anything below a 70 is an F. Work has failed at every level. There are no D in CUNY’s grading scale.
+
+
+### Course Rules  
+
+
+* **Students-Instructors contract.** The success of this course depends on the level of commitment of each student. That is, it is up to each student to carry out their class work and assignments as well as to contribute to their team’s reporting and speak up about any doubts or concerns you may have. In return, the instructors will do their best to provide a clear lesson plan, give students timely feedback and advice them to achieve the course expected outcomes.
+
+* **Team-work** Make sure to establish clear team goals, responsibilities and agree on how to measure your team progress and what to do if a team member is not pulling his/her weight. The grade will be a group one, so being able to work with others and manage your time out of class will be critical for your success.
+
+* **Attendance and punctuality.** We meet 15 times during the spring semester. You must attend every class and be on time. If you’re sick or you have an emergency, let us know via Slack. If you don’t show up, you will hear from us. More than one unexcused absence will penalize your overall grade by 5%. Similarly, two tardiness equals an absence.
+
+* **Deadlines matter.** This is of vital importance, not only for the class but also in the professional career of any journalist, because deadlines are sacred. Please carefully note these rule: there will be a 5 percent deduction of your assignment grade for every 24 hours that passes after a deadline in which you have not turned it in. The only exceptions are medical emergency or family emergency. Make-up work will not be offered except in extenuating circumstances.
+
+* **Communicate.** If you have a problem or if you have difficulties, tell us right away, not after is too late. In journalism that’s what we do. When we have a problem we immediately tell our editor.
+
+* **Be accurate and use language correctly.** The value of journalistic work depends on credibility. That is why assignments must have a rigorous verification of the data and information presented. That is the basis of the profession. A story with erroneous information can carry out an F grade. We expect the language to be used correctly. Follow the AP Style guidelines. Aim for clarity, precision and correct spelling and grammar.
+
+* **Be a pro.** Honesty, courtesy, curiosity and professionalism are the core values of a journalist. Behave like one because you are a journalist. When classmates are presenting or we have guests or we are working in teams don’t multitask, focus.
+
+* **Participation.** It is important to maintain an attitude of openness. Class time is reserved for learning and discussing the topics of each session. It is not the time for personal calls, text messages, emails and social networks.
+
+* **Diversity and inclusion.** It's critical that you learn to include a diverse set of voices in their stories, something that is often glossed over when finding stories in spreadsheets and online sources. You are encouraged and expected to look for stories about and voices from communities that are underrepresented. This also applies to our classroom. It requires us all to discuss differences with respect and empathy, regarding race, gender, age, religion, sexual preference, disability, language, origin or political beliefs.
+
+* **Code of honor.** This class follows the guidelines of the Student Handbook of our school. More so, in journalism plagiarism or falsification of data, sources and facts are serious crimes that can lead to failing this class. You may also be the subject of suspension, probation or expulsion, pending the decision of the School administration.
 
 Never "lift" or "borrow" or "appropriate" or "repurpose" graphics, audio, or code without both permission and attribution. This guidance applies to scripts, audio, video clips, programs, photos, drawings, and other images, and it includes images found online and in books.
 
