@@ -465,7 +465,7 @@ Elements of story:
 
 
 
-### Deadlines and how to file
+## Deadlines and how to file
 
 Each team will create it's own Drive team folder (team-lastname-lastname) and data Github repository (github.com/team-lastname-lastname), to file work. Assignments are filed by **Thursdays at 4:30 pm.** Remember to give your instructors full access to your folder and repo, and to post a message in the #filehere Slack channel to let your instructors know that you did.
 
@@ -479,7 +479,7 @@ Each team will create it's own Drive team folder (team-lastname-lastname) and da
 * Week 14. Dec. 6. Story 2 Final. 
 
 
-### Grading
+## Grading
 
 
 #### Rubric
@@ -526,7 +526,7 @@ Final course grades, according to the grading scale used in the CUNY Graduate Sc
 * Anything below a 70 is an F. Work has failed at every level. There are no D in CUNY’s grading scale.
 
 
-### Course Rules  
+## Course Rules  
 
 
 * **Students-Instructors contract.** The success of this course depends on the level of commitment of each student. That is, it is up to each student to carry out their class work and assignments as well as to contribute to their team’s reporting and speak up about any doubts or concerns you may have. In return, the instructors will do their best to provide a clear lesson plan, give students timely feedback and advice them to achieve the course expected outcomes.
