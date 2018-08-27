@@ -515,7 +515,7 @@ Each team will create it's own Drive team folder (team-lastname-lastname) and da
 
 0 pts. Not submitted within 1 week of deadline
 
-*   *Class exercises and participation (20 points)**
+*   **Class exercises and participation (20 points)**
 
 Fulfills all class exercises, participates, is on time, asks questions, shares ideas, works well with others.
 
