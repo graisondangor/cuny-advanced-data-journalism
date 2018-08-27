@@ -65,9 +65,9 @@ When it comes to statistical analysis - that you are already familiar with from 
   <tr>
    <td>Week 2. Sept. 6
    </td>
-   <td>Gathering and mining — data types in the wild
+   <td><a href='https://docs.google.com/presentation/d/162OLF77PF5kOzzeB6WICdqUiq1PqW0ldTVoZXw0ocGo/edit?usp=sharing'>Gathering and mining — data types in the wild</a>
    </br>
-   <a href=''>Introduction to Python basics</a>
+   <a href='https://docs.google.com/presentation/d/1S4zRKd9HehhntlIoC03CcdeFBxljrd2ZSrLnbyJ-qp0/edit?usp=sharing'>Introduction to Python basics</a>
    </td>
    <td>
    </td>
