@@ -162,11 +162,3 @@ The result should be:
 ```
 Python 3.7.0
 ```
-
-
-### Pip and PyPi
-
-PyPi or [Python Package Index](https://pypi.python.org/pypi) is a place where people upload packaged libraries for public use. The easiest way to get these libraries is through pip, which you can get [here](https://pip.pypa.io/en/stable/installing/).
-
-
-<!-- GD2md-html version 1.0β11 -->

@@ -16,7 +16,7 @@
 
 
 
-The Advanced Data Journalism course teaches students the next level of skills and reporting to succeed as data journalists. The course builds on what you learned in Data Journalism, but goes deeper into hands on data gathering, cleaning, data mining, data analysis and data visualization for storytelling. We will be working intensively with Python (one of the popular programming language in newsrooms that is well-leveraged or suited for working with data). We will also use Javascript visualization libraries for mapping and graphics.
+The Advanced Data Journalism course teaches students the next level of skills and reporting to succeed as data journalists. The course builds on what you learned in Data Journalism, but goes deeper into hands on data gathering, cleaning, data mining, data analysis and data visualization for storytelling. We will be working intensively with Python (one of the popular programming language in newsrooms that is well-leveraged or suited for working with data).
 
 The course will focus on one class big reporting project (with students working in small reporting teams). We have two themes for this course: 1) Politics, Power and Money in New York, and 2) Economics, race and gender. The City of New York has a an annual budget close to $85 billion dollars - the largest of any city in the world. This involves thousands of contracts, vendors, services, projects, companies and lobbyist targeting elected officials (who receive campaign donations), as well as programs related to race and gender. Both themes work as intersectional beats that cross each other and other issues.
 
@@ -337,22 +337,108 @@ You will do the above mentioned by:
 *   Working with datasets that are valuable to the course reporting theme that apply a particular skill
 *   Pair programming, trial and error and peer review
 *   Mixing the skills work with reporting
-*   Completing short data exercise assignments related to topics and skills learned.
+*   Completing short data exercise assignments related to topics and skills learned in class
 
 You and your team will produce 2 big stories
-
-
 
 *   1 story based on data analysis and reporting.
 
 1 story based in data mining, database building and graphics development.
 
 All the stories will be publish in a class mobile-friendly website with responsive design produced by everyone in the class (we will define roles and responsibilities).
+# Assignments
 
+Your grade is made up of three parts. Your two assignments and your in-class participation:
+
+
+
+*   Story 1: 40 points
+*   Story 2:  40 points
+*   Class exercises and participation: 20 points
+
+
+## Requirements for story 1
+
+
+
+*   Write a data-driven story.
+*   500 – 800 words.
+*   Uses one or more datasets and at least 3 human sources that YOU have interviewed. This sources do not necessarily need to be directly referenced in the piece. If he or she is not referenced, you must explain in a note how this source helped you.
+
+
+## Requirements for story 2
+
+
+
+*   A data-driven story that in its final version will be presented in a web page that can include visual or graphic elements that you propose.
+*   700 – 1000 words.
+*   Uses two or more datasets and at least 6 human sources that YOU have interviewed. This sources do not necessarily need to be directly referenced in the piece. If he or she is not referenced, you must explain in a note how this source helped you.
+*   Build a web page for your story
+
+
+## Details of each story assignment
+
+The reporting assignments for this course are two data journalism stories. For each story you will hand in reporting memos, drafts and final pieces. You will do this by working in your team Drive folder or repository in Github?  
+
+Each story includes the following deliverables:
+
+
+
+*   Pitch
+*   Reporting memo
+*   Draft
+*   Story
+
+
+#### Pitch requirements
+
+  A pitch should be 1 page long, 2 pages long max.   including the following things
+
+
+
+*   Team byline and beat.
+*   What is your story about? Tell us in 1 headline and 1 lead paragraph. This should include answers to the following questions:
+    *   Why this story is relevant ("So what?) and why now?
+    *   What is the single question your story tries to answer?
+    *   Why will this story resonate with your audience?
+    *   What else has been done on this topic? (Provide links) and how is your angle different or fresh?    
+*   List in bullets the unique findings your story will reveal
+*   Maximum/minimum.
+    *   What is the maximum (best) story possible?
+    *   What's the minimum (fallback) story if your hypothesis doesn't prove out?
+
+
+#### Reporting memo
+
+simple document addressed to your instructors with the goal to let them know what you did, what problems you came across, what you need help with and what are your next reporting steps.
+
+Requirements:
+*   Story number, byline, date
+*   What you did
+    *   List of reporting activities done (sources contacted, data reviewed)
+    *   Major findings
+    *   Problems
+*   What you need help with
+*   Next reporting steps
+
+
+#### Draft and Final Stories
+Your draft and final stories must include all the traditional elements of a story, and a data folder.
+
+Elements of story:
+*   Headline
+*   Lead or nut graph
+*   Authors
+*   Text
+*   Charts (if included)
+*   Any necessary credits, captions, etc.
+*   Data github repo:
+    *   A data folder with your input data (raw, unprocessed)
+    *   An output folder with output data files from your analysis
+    *   A notebooks folder which contains all your jupyter notebooks
+    *   A readme.md file that explains what you did with your project
 
 ### Types of stories you will be able to produce
-
-
 
 *   Two Americas: Republican districts have far fewer immigrants: [https://www.axios.com/two-americas-republicans-immigrants-4c1948f1-8b10-4e67-8ae0-7406af7d21a9.html](https://www.axios.com/two-americas-republicans-immigrants-4c1948f1-8b10-4e67-8ae0-7406af7d21a9.html)
 *   Can we talk about the gender pay gap? [https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/](https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/)
@@ -363,20 +449,13 @@ All the stories will be publish in a class mobile-friendly website with responsi
 *   New York Landlords Exploit Loophole to Hike Rents Despite Freeze [https://www.propublica.org/article/new-york-landlords-exploit-loophole-to-hike-rents-despite-freeze](https://www.propublica.org/article/new-york-landlords-exploit-loophole-to-hike-rents-despite-freeze)
 
 
-
-
 ### Tools used in the class
 
-
-
--[Python 3.6](https://www.python.org/downloads/)
--[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) package and other scripts and packages for social media data mining
--[Anaconda](https://www.anaconda.com/download/#macos) (Python distribution: includes Jupyter Notebooks, data analysis and data visualization packages, and environment manager to create virtual environments)
--Highcharts Javascript data visualization library-Text editor[ Sublime Text](http://www.sublimetext.com/) or[ Atom](https://www.atom.io)
--Personal account in[ Github](http://www.github.com/)
--Command line Terminal
--Local server
-
+* [Python 3](https://www.python.org/downloads/)
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) package and other scripts and packages for social media data mining
+* Text editor[ Sublime Text](http://www.sublimetext.com/) or[ Atom](https://www.atom.io)
+* Personal account in[ Github](http://www.github.com/)
+* Command line Terminal
 
 ### Plagiarism and Copyright
 

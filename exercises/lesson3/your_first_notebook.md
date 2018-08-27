@@ -22,7 +22,15 @@ cd python-for-newbies
 ```
 Now you have all these files locally!
 
+
 ### Install requirements
+
+#### Pip and PyPi
+
+PyPi or [Python Package Index](https://pypi.python.org/pypi) is a place where people upload packaged libraries for public use. The easiest way to get these libraries is through pip, which you can get [here](https://pip.pypa.io/en/stable/installing/).
+
+
+
 To see the packages you have installed:
 ```
 pip freeze
@@ -56,7 +64,7 @@ python example_python_script.py
 ```
 
 
-### Get your first 
+### Get your first
 The interactive shell is useful for testing things out, but not for putting together tasks that you can re-run.
 
 To run the example Python script:
