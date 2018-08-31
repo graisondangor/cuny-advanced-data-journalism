@@ -12,6 +12,8 @@
 
 **Communications, office hours:** [Slack](https://datareporting18.slack.com/) (main class communication channel). Office hours with Miguel Paz by appointment via email.
 
+**Ohter resources:** [Python book that Lam is writing](https://docs.google.com/document/d/1gXKdILpTmwzvn5w7mj7NgN55zT668xrM1wNjCYJG3Mw/edit?usp=sharing)
+
 
 ![data data data! o(^◇^)o](https://media.giphy.com/media/zEU2uwmialC4U/giphy.gif)
 
@@ -36,6 +38,7 @@ The sessions will be organized around 4 main areas, oriented by journalism quest
 In case you wonder, we won't be using or teaching Excel (you got that already in Data Journalism 1, and you can use it whenever you feel the need to do so, since its complementary to the work in Python). Why? Excel is a great tool to explore, analyze and browse data, as well as to do calculations and clean small sets of data. But it lacks what Python, Pandas and Jupyter Notebooks bring to the table: the ability to keep track of changes, automatize data analysis and other tasks, as well as to save your work as notebooks so your editors and other people can reproduce your work.
 
 When it comes to statistical analysis - that you are already familiar with from the Data Journalism 1 course in the Spring - we will also be using Python with data stored as pandas (numpy, scypi) dataframe objects. This includes statistical data modeling: hypothesis testing, probability distributions, linear and non linear models.
+
 
 
 ### Schedule
@@ -472,7 +475,7 @@ Each team will create it's own Drive team folder (team-lastname-lastname) and da
 
 * Week 3. Sept. 13. Story 1 Pitch. 
 * Week 5. Sept. 27. Story 1 Memo. 
-* Week 6. Oct. 4. Story 1 Draft.  
+* Week 6. Oct. 4. Story 1 Draft. 
 * Week 8. Oct. 18. Story 1 Final. 
 * Week 9. Oct. 25. Story 2 Pitch. 
 * Week 10. Nov. 1. Story 2 Memo. 
