@@ -58,9 +58,9 @@ When it comes to statistical analysis - that you are already familiar with from 
   <tr>
    <td>Week 1. August 30
    </td>
-   <td><a href='https://docs.google.com/presentation/d/1j5PQ157lLEIiR3isos4j3udOJVnSJHubThJXvwRjBlE/edit?usp=sharing' target='blank'>Syllabus summary</a>,
-   <a href='https://docs.google.com/presentation/d/1ObOUrO4GKABI59B4Hutrni6nnXNhd9t_Vv2xDGJZ69M/edit?usp=sharing' target='blank'>Python in the world of journalism</a>,
-<a href='https://docs.google.com/presentation/d/1eRNTxHixpWxD9gzRKLkztVjoPT3omYd7Ne61A9R2-dI/edit?usp=sharing' target='blank'>Languages of the web (an overview)</a>,
+   <td><a href='https://docs.google.com/presentation/d/1j5PQ157lLEIiR3isos4j3udOJVnSJHubThJXvwRjBlE/edit?usp=sharing' target='blank'>Syllabus summary</a>,</br>
+   <a href='https://docs.google.com/presentation/d/1ObOUrO4GKABI59B4Hutrni6nnXNhd9t_Vv2xDGJZ69M/edit?usp=sharing' target='blank'>Python in the world of journalism</a>,</br>
+<a href='https://docs.google.com/presentation/d/1eRNTxHixpWxD9gzRKLkztVjoPT3omYd7Ne61A9R2-dI/edit?usp=sharing' target='blank'>Languages of the web (an overview)</a>,</br>
 <a href='exercises/lesson1/installation_party.md' target='blank'>Installation party!</a>
    </td>
    <td>
