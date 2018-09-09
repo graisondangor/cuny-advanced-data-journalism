@@ -84,7 +84,7 @@ When it comes to statistical analysis - that you are already familiar with from 
    <td>Week 3. Sept. 13
    </td>
    <td><a href='https://docs.google.com/presentation/d/1oWYqdyHZcH5B6FzXaTUs7maT7usNfLDjZ6oHDdCk7oU/edit?usp=sharing'>Gathering and mining — data by subject area</a>
-    </br>Jupyter notebooks, part 1
+    </br><a hre='https://docs.google.com/presentation/d/1v2ef_bdJKTJhhsH5t2IU9vpKjzqkG6_9sTsCb3SEyA0/edit?usp=sharing'>Jupyter notebooks, part 1</a>
     <ul>
       <li>Virtual environments</li>
       <li>Creating your first notebook</li>
