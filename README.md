@@ -73,6 +73,7 @@ When it comes to statistical analysis - that you are already familiar with from 
    </td>
    <td><a href='https://docs.google.com/presentation/d/162OLF77PF5kOzzeB6WICdqUiq1PqW0ldTVoZXw0ocGo/edit?usp=sharing'>Gathering and mining — data types in the wild</a>
    </br>
+   </br>
    <a href='https://docs.google.com/presentation/d/1S4zRKd9HehhntlIoC03CcdeFBxljrd2ZSrLnbyJ-qp0/edit?usp=sharing'>Introduction to Python basics</a>
    </td>
    <td>
@@ -84,7 +85,9 @@ When it comes to statistical analysis - that you are already familiar with from 
    <td>Week 3. Sept. 13
    </td>
    <td><a href='https://docs.google.com/presentation/d/1oWYqdyHZcH5B6FzXaTUs7maT7usNfLDjZ6oHDdCk7oU/edit?usp=sharing'>Gathering and mining — data by subject area</a>
-    </br><a href='https://docs.google.com/presentation/d/1v2ef_bdJKTJhhsH5t2IU9vpKjzqkG6_9sTsCb3SEyA0/edit?usp=sharing'>Jupyter notebooks, part 1</a>
+    </br>
+    </br>
+    <a href='https://docs.google.com/presentation/d/1v2ef_bdJKTJhhsH5t2IU9vpKjzqkG6_9sTsCb3SEyA0/edit?usp=sharing'>Jupyter notebooks, part 1</a>
     <ul>
       <li>Virtual environments</li>
       <li>Creating your first notebook</li>
@@ -102,13 +105,18 @@ When it comes to statistical analysis - that you are already familiar with from 
   <tr>
    <td>Week 4. Sept. 20
    </td>
-   <td><p><a href='https://docs.google.com/presentation/d/17gKT7YtaPrzOF0H_575fEyowaoTdGpCra9-wgf0lJ2o/edit?usp=sharing>Interviewing a data set</a></p>
+   <td>
 
-<a href='https://docs.google.com/presentation/d/1vfsDFE1bIGCEthN_qhxGLYfZkamq_fjAc3j3NKt9js4/edit?usp=sharing'>Jupyter notebooks, part 2</a>: <ul>
 
-<li></li>
-<li>Libraries</li>
-<li>Libraries</li>
+<a href='https://docs.google.com/presentation/d/17gKT7YtaPrzOF0H_575fEyowaoTdGpCra9-wgf0lJ2o/edit?usp=sharing'> Interviewing a data set</a>
+</br>
+</br>
+<a href='https://docs.google.com/presentation/d/1vfsDFE1bIGCEthN_qhxGLYfZkamq_fjAc3j3NKt9js4/edit?usp=sharing'>Jupyter notebooks, part 2</a>:
+<ul>
+
+<li>loading csvs</li>
+<li>exploring csvs</li>
+<li>manipulating columns</li>
 </ul>
 
    </td>
