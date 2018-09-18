@@ -89,6 +89,9 @@ When it comes to statistical analysis - that you are already familiar with from 
       <li>Virtual environments</li>
       <li>Creating your first notebook</li>
       <li>Understanding the environment</li>
+      <li>Libraries</li>
+      <li>Importing</li>
+      <li>Open your first spreadsheet with pandas</li>
       </ul>
    </td>
    <td>
@@ -99,13 +102,14 @@ When it comes to statistical analysis - that you are already familiar with from 
   <tr>
    <td>Week 4. Sept. 20
    </td>
-   <td>Gathering and mining — Interviewing a data set
+   <td><p><a href='https://docs.google.com/presentation/d/17gKT7YtaPrzOF0H_575fEyowaoTdGpCra9-wgf0lJ2o/edit?usp=sharing>Interviewing a data set</a></p>
 
-Jupyter notebooks, part 2: <ul>
+<a href='https://docs.google.com/presentation/d/1vfsDFE1bIGCEthN_qhxGLYfZkamq_fjAc3j3NKt9js4/edit?usp=sharing'>Jupyter notebooks, part 2</a>: <ul>
 
-<li>Libraries
-<li>Importing
-<li>Open your first spreadsheet with pandas</li></ul>
+<li></li>
+<li>Libraries</li>
+<li>Libraries</li>
+</ul>
 
    </td>
    <td>
