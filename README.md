@@ -128,19 +128,19 @@ When it comes to statistical analysis - that you are already familiar with from 
   <tr>
    <td>Week 5. Sept. 27
    </td>
-   <td>Cleaning and processing — the problems with data:<ul>
-
-<li>Human error (political party time)
-<li>Insider jargon and knowledge
-<li>Messy data from the web
+   <td><a href='https://docs.google.com/presentation/d/1Ac4-nOeA6pcQjv9JxBt5wys-K6q7qy9g9l50fvBC9mY/edit?usp=sharing'>Cleaning and processing: Why people suck — Data problems other people created for you and how you can solve them</a>
 
 
-Fun with pandas:<ul>
 
-<li>Sorting
-<li>Summarizing
-<li>Find anomalies in these data sets</li></ul>
-</li></ul>
+</br>
+</br>
+<a href='https://docs.google.com/presentation/d/1BGtV2rDOTo0fPRVo89e8h08JRdVxgJudj4EdLbLDMQc/edit?usp=sharing>Asking your dataset questions with pandas:</a>
+<ul>
+
+<li>Sorting</li>
+<li>Filtering</li>
+<li>Summarizing</li></ul>
+</ul>
 
    </td>
    <td>
@@ -165,6 +165,7 @@ Fun with pandas:<ul>
 
 <li>Editorial power of merging information
 <li>Problems
+</ul>
 
 
 Pandas:<ul>
@@ -186,7 +187,7 @@ Pandas:<ul>
 
 <li>Trends and anomalies
 <li>Categories
-
+</ul>
 
 Pandas<ul>
 
@@ -207,7 +208,7 @@ Pandas<ul>
 
 <li>Percentages and percent changes
 
-
+</ul>
 Pandas: <ul>
 
 <li>Doing percentages
@@ -229,7 +230,7 @@ Pandas: <ul>
 <li>Statistical concepts
 <li>Models of anlayses
 
-
+</ul>
 Pandas: <ul>
 
 <li>matplotlib</li></ul>
@@ -244,9 +245,11 @@ Pandas: <ul>
   <tr>
    <td>Week 11. Nov. 8
    </td>
-   <td>Planning and executing stories: <ul>
-
-<li>Different formats </li></ul>
+   <td>
+   Planning and executing stories:
+   <ul>
+     <li>Different formats </li>
+  </ul>
 
    </td>
    <td>
@@ -260,7 +263,7 @@ Pandas: <ul>
    <td>Bulletproofing and reproducibility <ul>
 
 <li>Documentation in pandas and notebooks
-
+</ul>
 
 
 Walkthrough of sample project<ul>
@@ -291,12 +294,12 @@ Walkthrough of sample project<ul>
 
 <li>Learning from the tech sector
 <li>Structuring things into data that aren't
-
+</ul>
 
 Pandas:<ul>
 
 <li>Linguistic analysis</li></ul>
-</li></ul>
+</li>
 
    </td>
    <td>
