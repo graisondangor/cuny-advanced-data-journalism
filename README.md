@@ -129,12 +129,9 @@ When it comes to statistical analysis - that you are already familiar with from 
    <td>Week 5. Sept. 27
    </td>
    <td><a href='https://docs.google.com/presentation/d/1Ac4-nOeA6pcQjv9JxBt5wys-K6q7qy9g9l50fvBC9mY/edit?usp=sharing'>Cleaning and processing: Why people suck — Data problems other people created for you and how you can solve them</a>
-
-
-
 </br>
 </br>
-<a href='https://docs.google.com/presentation/d/1BGtV2rDOTo0fPRVo89e8h08JRdVxgJudj4EdLbLDMQc/edit?usp=sharing>Asking your dataset questions with pandas:</a>
+<a href='https://docs.google.com/presentation/d/1BGtV2rDOTo0fPRVo89e8h08JRdVxgJudj4EdLbLDMQc/edit?usp=sharing'> Asking your dataset questions with pandas </a>:
 <ul>
 
 <li>Sorting</li>
