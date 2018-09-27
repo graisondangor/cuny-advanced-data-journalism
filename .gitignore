@@ -39,4 +39,5 @@ Thumbs.db
 # Python #
 #########
 venv/
-exercises/project_folder/venv
+exercises/lesson3-5/project_folder/venv
+exercises/lesson3-5/project_folder/data/askscience_submissions.csv
