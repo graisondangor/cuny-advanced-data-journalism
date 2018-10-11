@@ -158,16 +158,16 @@ When it comes to statistical analysis - that you are already familiar with from 
   <tr>
    <td>Week 7. Oct. 11
    </td>
-   <td>Cleaning and processing — joining data:<ul>
+   <td><a href='https://docs.google.com/presentation/d/1BkmCzBVHJwTON8exNHBCZ3VOVuh2QSRamxTvLhEJhaA/edit?usp=sharing'>When two become one — Joining data</a>:<ul>
 
 <li>Editorial power of merging information
 <li>Problems
 </ul>
 
 
-Pandas:<ul>
+<a href='https://docs.google.com/presentation/d/1ZuMgHGVVP2iALOnxiAGrPvHn1QVY0Z8zT0aCJ0EXCeY/edit?usp=sharing'>Joining data sets with pandas</a>:<ul>
 
-<li>Harmonize and clean data for joining of data sets
+<li>Adjusting your column values
 <li>Merge data sets</li></ul>
 </li></ul>
 
@@ -188,8 +188,8 @@ Pandas:<ul>
 
 Pandas<ul>
 
-<li>Simple math with pandas
-<li>Creating new columns</li></ul>
+<li>Lambdas
+<li>Functions</li></ul>
 </li></ul>
 
    </td>
@@ -225,12 +225,12 @@ Pandas: <ul>
    <td>Doing analysis:<ul>
 
 <li>Statistical concepts
-<li>Models of anlayses
+<li>Models of analyses
 
 </ul>
-Pandas: <ul>
+Scraping: <ul>
 
-<li>matplotlib</li></ul>
+<li>APIs</li></ul>
 </li></ul>
 
    </td>
