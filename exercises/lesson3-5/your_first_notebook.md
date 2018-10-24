@@ -30,12 +30,12 @@ Your virtual environment is activated if you see the string `(venv)` at the begi
 Then you can run the folllowing command to install `jupyter`:
 
 ```
-pip install jupyter
+pip3 install jupyter
 ```
 And then `pandas`:
 
 ```
-pip install pandas
+pip3 install pandas
 ```
 
 ### Using Jupyter Notebooks

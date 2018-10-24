@@ -42,3 +42,6 @@ venv/
 exercises/lesson3-5/project_folder/venv
 exercises/lesson3-5/project_folder/data/askscience_submissions.csv
 exercises/lesson6/eeoc-harassment-charges-master/venv
+exercises/lesson7/venv
+exercises/lesson7/data/ira_tweets_csv_hashed.csv
+exercises/lesson7/data/ira_users_csv_hashed.csv

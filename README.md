@@ -50,8 +50,7 @@ When it comes to statistical analysis - that you are already familiar with from 
    </td>
    <td><strong>Lesson</strong>
    </td>
-   <td><strong>Notes</strong>
-   </td>
+
    <td><strong>Assignment</strong>
    </td>
   </tr>
@@ -65,8 +64,7 @@ When it comes to statistical analysis - that you are already familiar with from 
    </td>
    <td>
    </td>
-   <td>
-   </td>
+
   </tr>
   <tr>
    <td>Week 2. Sept. 6
@@ -78,8 +76,7 @@ When it comes to statistical analysis - that you are already familiar with from 
    </td>
    <td>
    </td>
-   <td>
-   </td>
+
   </tr>
   <tr>
    <td>Week 3. Sept. 13
@@ -97,8 +94,7 @@ When it comes to statistical analysis - that you are already familiar with from 
       <li>Open your first spreadsheet with pandas</li>
       </ul>
    </td>
-   <td>
-   </td>
+
    <td>Story 1 Pitch. 
    </td>
   </tr>
@@ -122,8 +118,7 @@ When it comes to statistical analysis - that you are already familiar with from 
    </td>
    <td>
    </td>
-   <td>
-   </td>
+
   </tr>
   <tr>
    <td>Week 5. Sept. 27
@@ -140,8 +135,7 @@ When it comes to statistical analysis - that you are already familiar with from 
 </ul>
 
    </td>
-   <td>
-   </td>
+
    <td>Story 1 Memo. 
    </td>
   </tr>
@@ -150,8 +144,7 @@ When it comes to statistical analysis - that you are already familiar with from 
    </td>
    <td>Pitch meeting with guest editors
    </td>
-   <td>
-   </td>
+
    <td>Story 1 Draft. 
    </td>
   </tr>
@@ -172,70 +165,64 @@ When it comes to statistical analysis - that you are already familiar with from 
 </li></ul>
 
    </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Week 8. Oct. 18
-   </td>
-   <td>Doing analysis:<ul>
 
-<li>Trends and anomalies
-<li>Categories
-</ul>
-
-Pandas<ul>
-
-<li>Lambdas
-<li>Functions</li></ul>
-</li></ul>
-
-   </td>
-   <td>
-   </td>
    <td>Story 1 Final. 
    </td>
   </tr>
   <tr>
-   <td>Week 9. Oct. 25
+   <td>Week 8. Oct. 25
    </td>
-   <td>Doing analysis:<ul>
+   <td>
 
-<li>Percentages and percent changes
-
+Pandas<ul>
+<li>Grouping</li>
+<li>Lambdas</li>
+<li>Reviewing good old Vanilla Python and writing functions</li>
 </ul>
-Pandas: <ul>
-
-<li>Doing percentages
-<li>Percent changes
-<li>Percent point changes</li></ul>
 </li></ul>
 
+Exercise: A breaking news assignment<ul>
+
+<li><a href='https://about.twitter.com/en_us/values/elections-integrity.html#data'>Covering trolls</a></li>
+</ul>
    </td>
    <td>
    </td>
-   <td>Story 2 Pitch
-   </td>
+
   </tr>
   <tr>
-   <td>Week 10. Nov. 1
+   <td>Week 9. Nov. 1
    </td>
    <td>Doing analysis:<ul>
 
 <li>Statistical concepts
-<li>Models of analyses
 
 </ul>
-Scraping: <ul>
 
-<li>APIs</li></ul>
 </li></ul>
 
    </td>
-   <td>
+
+   <td>Story 2 Pitch
    </td>
+  </tr>
+  <tr>
+   <td>Week 10. Nov. 8
+   </td>
+   <td>Gathering data:<ul>
+
+    <li>APIs</li>
+
+</ul>
+'Scraping' from APIs: <ul>
+
+<li>What is JSON?</li>
+<li>How to get data from APIs</li>
+</ul>
+</li></ul>
+
+   </td>
+
    <td>Story 2 Memo
    </td>
   </tr>
@@ -243,16 +230,19 @@ Scraping: <ul>
    <td>Week 11. Nov. 8
    </td>
    <td>
-   Planning and executing stories:
+   Scraping from web sites:
    <ul>
-     <li>Different formats </li>
+     <li>Legal and ethical considerations</li>
   </ul>
+  Scraping exercise:
+  <ul>
+    <li>Writing/reading your first scraper</li>
+ </ul>
 
    </td>
    <td>
    </td>
-   <td>
-   </td>
+
   </tr>
   <tr>
    <td>Week 12. Nov. 15
@@ -269,8 +259,7 @@ Walkthrough of sample project<ul>
 </li></ul>
 
    </td>
-   <td>
-   </td>
+
    <td>Story 2 Draft
    </td>
   </tr>
@@ -281,16 +270,15 @@ Walkthrough of sample project<ul>
    </td>
    <td>
    </td>
-   <td>
-   </td>
+
   </tr>
   <tr>
    <td>Week 13. Nov. 29
    </td>
-   <td>Funky stuff in data journalism:<ul>
+   <td>'Edgy' stuff in data journalism:<ul>
 
-<li>Learning from the tech sector
-<li>Structuring things into data that aren't
+<li>NLP
+<li>DIY data sets 
 </ul>
 
 Pandas:<ul>
@@ -301,8 +289,7 @@ Pandas:<ul>
    </td>
    <td>
    </td>
-   <td>
-   </td>
+
   </tr>
   <tr>
    <td>Week 14. Dec. 6
@@ -311,8 +298,7 @@ Pandas:<ul>
 
 Lab time!
    </td>
-   <td>
-   </td>
+
    <td>Story 2 Final
    </td>
   </tr>
@@ -321,8 +307,7 @@ Lab time!
    </td>
    <td>Presentation
    </td>
-   <td>
-   </td>
+
    <td>
    </td>
   </tr>
