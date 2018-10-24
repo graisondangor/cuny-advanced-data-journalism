@@ -209,11 +209,10 @@ Exercise: A breaking news assignment<ul>
   <tr>
    <td>Week 10. Nov. 8
    </td>
-   <td>Gathering data:<ul>
-
-    <li>APIs</li>
-
-</ul>
+   <td>Gathering data:
+   <ul>
+      <li>APIs</li>
+    </ul>
 'Scraping' from APIs: <ul>
 
 <li>What is JSON?</li>
@@ -227,7 +226,7 @@ Exercise: A breaking news assignment<ul>
    </td>
   </tr>
   <tr>
-   <td>Week 11. Nov. 8
+   <td>Week 11. Nov. 9
    </td>
    <td>
    Scraping from web sites:
@@ -236,7 +235,7 @@ Exercise: A breaking news assignment<ul>
   </ul>
   Scraping exercise:
   <ul>
-    <li>Writing/reading your first scraper</li>
+    <li>Writing/reading your first scraper for live web sites</li>
  </ul>
 
    </td>
@@ -278,7 +277,7 @@ Walkthrough of sample project<ul>
    <td>'Edgy' stuff in data journalism:<ul>
 
 <li>NLP
-<li>DIY data sets 
+<li>DIY data sets
 </ul>
 
 Pandas:<ul>
