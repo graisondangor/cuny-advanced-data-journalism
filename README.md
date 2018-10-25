@@ -174,10 +174,12 @@ When it comes to statistical analysis - that you are already familiar with from 
    </td>
    <td>
 
-Pandas<ul>
+<a href='https://docs.google.com/presentation/d/1GXxQhDbJdIWFWjmfNavo4CiI6UoOrP-pu42SBOM1VXU/edit?usp=sharing'>Pandas</a><ul>
+<li>Loading your data/formatting it</li>
 <li>Grouping</li>
 <li>Lambdas</li>
 <li>Reviewing good old Vanilla Python and writing functions</li>
+
 </ul>
 </li></ul>
 
