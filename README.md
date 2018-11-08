@@ -211,11 +211,11 @@ Exercise: A breaking news assignment<ul>
   <tr>
    <td>Week 10. Nov. 8
    </td>
-   <td>DYI datasets (part 1):
+   <td>DYI datasets (<a href='https://docs.google.com/presentation/d/1qtDLjMW7JVCem1tZ9Z9NDtroO-EqcZPYD5OnQowyTuI/edit?usp=sharing'>part 1</a>):
    <ul>
       <li>APIs</li>
     </ul>
-'Scraping' from APIs: <ul>
+<a href='https://docs.google.com/presentation/d/1qtDLjMW7JVCem1tZ9Z9NDtroO-EqcZPYD5OnQowyTuI/edit?usp=sharing'>'Scraping' from APIs</a>:<ul>
 
 <li>What is JSON?</li>
 <li>How to get data from APIs</li>
