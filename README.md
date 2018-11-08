@@ -211,7 +211,7 @@ Exercise: A breaking news assignment<ul>
   <tr>
    <td>Week 10. Nov. 8
    </td>
-   <td>Gathering data:
+   <td>DYI datasets (part 1):
    <ul>
       <li>APIs</li>
     </ul>
@@ -231,8 +231,9 @@ Exercise: A breaking news assignment<ul>
    <td>Week 11. Nov. 9
    </td>
    <td>
-   Scraping from web sites:
+   DIY datasets (part 2):
    <ul>
+   <li>Scraping from web sites</li>
      <li>Legal and ethical considerations</li>
   </ul>
   Scraping exercise:
