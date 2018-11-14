@@ -231,12 +231,12 @@ Exercise: A breaking news assignment<ul>
    <td>Week 11. Nov. 9
    </td>
    <td>
-   DIY datasets (part 2):
+   <a href='https://docs.google.com/presentation/d/17W_kI1RryPYZpQXRZKHaNG4_oQzWLpO0sXLsH5puQ58/edit?usp=sharing'>DIY datasets (part 2)</a>:
    <ul>
    <li>Scraping from web sites</li>
      <li>Legal and ethical considerations</li>
   </ul>
-  Scraping exercise:
+  <a href='https://github.com/lamthuyvo/cuny-advanced-data-journalism/blob/master/exercises/lesson10_11/notebooks/02-wikipedia-scraper.ipynb'>Scraping exercise</a>:
   <ul>
     <li>Writing/reading your first scraper for live web sites</li>
  </ul>
