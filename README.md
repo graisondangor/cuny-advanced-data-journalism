@@ -249,7 +249,7 @@ Exercise: A breaking news assignment<ul>
   <tr>
    <td>Week 12. Nov. 15
    </td>
-   <td><a href=-'https://docs.google.com/presentation/d/1b9Liq5vFWOTw8LNCGRp_QOY4EugHWbCcGWuocwY81lU/edit?usp=sharing>Reproducibility</a> <ul>
+   <td><a href='https://docs.google.com/presentation/d/1b9Liq5vFWOTw8LNCGRp_QOY4EugHWbCcGWuocwY81lU/edit?usp=sharing'>Reproducibility</a> <ul>
 
 <li>Documentation in pandas and notebooks
 </ul>
