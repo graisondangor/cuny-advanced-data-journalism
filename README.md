@@ -277,13 +277,13 @@ Walkthrough of sample project<ul>
   <tr>
    <td>Week 13. Nov. 29
    </td>
-   <td>'Edgy' stuff in data journalism:<ul>
+   <td><a href='https://docs.google.com/presentation/d/1-EYLGS6sYD0Z4Ee_-I3sHBqWGv8YEiRrNyN37PUVlNI/edit?usp=sharing'>'Edgy' stuff in data journalism:</a><ul>
 
 <li>NLP
-<li>DIY data sets
+<li>Machine Learning
 </ul>
 
-Pandas:<ul>
+<a href="https://docs.google.com/presentation/d/1-EYLGS6sYD0Z4Ee_-I3sHBqWGv8YEiRrNyN37PUVlNI/edit?usp=sharing">Pandas and spacy:</a><ul>
 
 <li>Linguistic analysis</li></ul>
 </li>
